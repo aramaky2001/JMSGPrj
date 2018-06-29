@@ -1,0 +1,2 @@
+# JMSGPrj
+List of Activities
